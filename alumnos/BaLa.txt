@@ -1,0 +1,4 @@
+nombre: yadid elias rosell bañuelos
+correo: yadidelias@gmail.com
+semestre: cuarto
+Ingeniero de software
