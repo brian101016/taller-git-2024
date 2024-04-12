@@ -1,4 +1,5 @@
-nombre: yadid elias rosell bañuelos
-correo: yadidelias@gmail.com
-semestre: cuarto
+Nombre: Jesus Gabriel
+correo: jesusgabrielhernandezbelducea@gmail
+
+Semestre: Segundo
 Ingeniero de software
