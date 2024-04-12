@@ -1,0 +1,7 @@
+nombre: luis jesus martinezz soto
+
+correo: luisjesusmartinezsoto5@gmail.com
+
+semestre: 8
+
+carrera: ingeneria en Software
